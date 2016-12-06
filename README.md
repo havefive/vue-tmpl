@@ -1,2 +1,2 @@
 # vue-tmpl
-vue+es6+postcss+gulp
+vue-cli +vue-router + element-ui + vue-axios
