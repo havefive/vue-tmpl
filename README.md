@@ -25,7 +25,7 @@ npm install vue-router element-ui axios --save
 ```
 ### Edit main.js,config router,add page as usual way
 ```
-
+// code as you wish
 ```
 ### Start dev
 
