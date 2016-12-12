@@ -32,9 +32,9 @@ npm install vue-router element-ui axios --save
 ```
 npm run start
 ```
-### Build product
+### Build product,will be found at ‘dist’ folder
 ```
-npm run start
+npm run build
 ```
 
 
