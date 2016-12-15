@@ -1,7 +1,7 @@
 # vue-tmpl
 vue-cli + vue-router + element-ui + axios,enjoy Vue!
 
-如何快速搭建一个vue项目？这里提供一种方案，基于vue-cli,加入了路由管理vue-router,饿了么前端库（或者采用vue-material）,ajax采用最近热门的axios,module使用参考各个的readme.
+如何快速搭建一个vue项目？这里提供一种方案，基于vue-cli,加入了路由管理vue-router,ui加入饿了么前端库（或者采用vue-material）,ajax采用最近热门的axios,module使用参考各个的readme.
 
 ## Steps:
 
